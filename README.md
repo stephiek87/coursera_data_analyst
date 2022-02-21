@@ -1,4 +1,9 @@
 # coursera_data_analyst
-Coursera Data Analyst python practice
+Working through the IBM Data Analyst Professional Certificate on Coursera
 
-First commit: first python lesson
+Current module:
+Module 4: Python for Data Science, AI & Development
+
+This is the python practice lab assignments throughout this module. Having completed the python certificate on Codecademy really helped me get through this module on the Coursera website.
+
+I'll be using this repository to add the lessons as I go and work on utilizing Github as well.
